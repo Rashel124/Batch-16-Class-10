@@ -1,0 +1,18 @@
+
+======= CSS Color============
+1. color by name: (red, green, yellow, blue)
+2. Colore by Hex code (#129056,#AF45CD)
+3. Color by RGB=> Red, Green, Blue =>rgb ( 43, 23, 0);Limit: ( 0-255)
+4. Color by RGBA= Red Green Blue Alpha=> ( 45,69, 43, 0.5) Limit: (0.1)
+5. Linear Gradient color system=> background image: liner-Gradient
+( red, yellow, #129056) rgb ( 43, 25, 0.1) rgba ( 45 69,43, 0.5)/radial-Gradient
+ Decimal=> 0,1, 2, 3, 4,5,6,7,8,9
+ Binary= 0,1
+ ASCII Table
+ Octal=> 0,1,2,3,4,5,6,7
+ Hexa Decimal=> 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+ Extension: Colorzilla 
+ CSSgradient.io 
+ 
+
+
